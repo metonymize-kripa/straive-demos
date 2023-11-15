@@ -1,1 +1,1 @@
-
+Minimal images
